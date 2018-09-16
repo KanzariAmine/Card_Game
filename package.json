@@ -1,0 +1,16 @@
+{
+  "name": "card_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "https://KanzariAmine.github.io/Card_Game",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
