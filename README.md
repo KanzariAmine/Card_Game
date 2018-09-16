@@ -4,7 +4,7 @@
 
 # Technology Used:
 
->vanilla javascript
+>Vanilla Javascript
 
 >Html5
 
